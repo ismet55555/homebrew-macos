@@ -1,4 +1,4 @@
-# homebrew-macos
+# homebrew-things
 
 Homebrew tap for projects
 
